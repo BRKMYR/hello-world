@@ -1,2 +1,2 @@
 # hello-world
-Just seeing if it works
+Just checking if GitHub works
